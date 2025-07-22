@@ -1,0 +1,9 @@
+{
+	"name": "advanced-fluids-properties",
+	"title": "Advanced Fluids Properties",
+	"description": "testing something with fluids ...",
+	"factorio_version": "2.0",
+	"author": "Factory077",
+	"version": "1.0.0",
+	"dependencies": ["base >= 2.0.0", "? space-age >= 2.0.0"]
+}
